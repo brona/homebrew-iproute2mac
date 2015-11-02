@@ -2,8 +2,8 @@ require "formula"
 
 class Iproute2mac < Formula
   homepage "https://github.com/brona/iproute2mac"
-  url "https://github.com/brona/iproute2mac/archive/v1.0.9.zip"
-  sha1 "e4bc75c6dee574af221fcb4873b6cb0f22c88511"
+  url "https://github.com/brona/iproute2mac/archive/v1.1.0.zip"
+  sha1 "9b6b7992179b8cfb0daa90cd3a712893f5c3c68c"
 
   depends_on :python
 
